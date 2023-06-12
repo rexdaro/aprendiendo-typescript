@@ -11,3 +11,4 @@ const numerito: number = 123;
 
 
 console.log(mensaje);
+console.log(numerito);
